@@ -1,4 +1,5 @@
 ﻿# Yogesh7858
+<img src="./githubBanner.jfif" width="1000">
 <h1 align="center">Hi 👋, I'm Yogesh Tiwari</h1>
 <h3 align="center">A passionate Software developer and currently a Computer Science Undergrad looking forward to new Opportunities.</h3>
 <img align="right" alt="coding" width="400" src="./githubCoding.gif">
